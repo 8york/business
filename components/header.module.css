@@ -1,0 +1,24 @@
+.heading {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 3em;
+  border-bottom: 1px solid #161817;
+  background-color: #24423b;
+  height: 100px;
+}
+
+.hero {
+  height: 500px;
+  background-color: rgb(200, 101, 26);
+}
+
+.title {
+  margin-top: 0;
+  text-align: center;
+  font-size: 40px;
+  color: #b6f3e8;
+  padding-top: 50%;
+  transform: translateY(-70%);
+}
