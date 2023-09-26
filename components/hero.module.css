@@ -1,0 +1,21 @@
+.hero {
+  height: 150px;
+  background-color: rgb(200, 101, 26);
+}
+@media (min-width: 960px) {
+  .hero {
+    height: 500px;
+    background-color: rgb(29, 93, 18);
+  }
+  .title {
+  }
+}
+
+.title {
+  margin-top: 0;
+  text-align: center;
+  font-size: 40px;
+  color: #b6f3e8;
+  padding-top: 50%;
+  transform: translateY(-60%);
+}
