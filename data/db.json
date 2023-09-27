@@ -1,0 +1,81 @@
+{
+  "about": [
+    {
+      "id": 1,
+      "title": "Hello, I am Marisa",
+      "sub-title": "Somatic(body-oriented) psychotherapist and Rehabilitation Counsellor",
+      "marisa": "I utilise a range of therapeutic approaches to meet clients’ needs. I work from a person-centred framework of respect and non-judgment, creating a safe space where clients can explore issues, collaboratively set goals and practice new ways of being."
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "servicename": "Mental Health Counselling",
+      "details": "Mental health counselling, often simply referred to as counselling or therapy, is here to help you address and manage emotional, psychological, and behavioural issues or challenges. The primary goal of counselling is to promote mental and emotional well-being, improve coping skills, and enhance the overall quality of life for the individuals seeking help. Individuals seek counselling to improve relationships, and achieve a greater sense of mental and emotional balance. Counselling sessions are held in a confidential and non-judgmental setting, where individuals can openly discuss their thoughts, feelings, and concerns without fear of judgment or stigma."
+    },
+    {
+      "id": 2,
+      "servicename": "Somatic Psychotherapy",
+      "details": "Somatic psychotherapy is a therapeutic approach that emphasises the mind-body connection and recognises the role of the body in emotional and psychological well-being. It focuses on how bodily sensations, movements, and physical experiences are connected to a person's emotional and psychological state. Somatic psychotherapy takes the point of view that unresolved emotional issues and trauma can manifest in the body as physical tension, pain, or discomfort. The goal of somatic psychotherapy is to address and heal these mind-body connections to promote overall well-being."
+    },
+    {
+      "id": 3,
+      "servicename": "Somatic Experiencing Trauma Work",
+      "details": "Somatic Experiencing (SE) is a therapeutic approach developed by Dr. Peter A. Levine, a psychologist and researcher, that focuses on resolving and healing trauma and stress-related disorders by addressing the body's physical and physiological responses to trauma. The central idea behind Somatic Experiencing is that trauma is not only a psychological or emotional experience but also a somatic (bodily) one, and healing trauma involves addressing the physical sensations and responses that are stored in the body. Somatic Experiencing has been used successfully to address a wide range of trauma-related issues, including post-traumatic stress disorder (PTSD), developmental trauma, physical trauma, and various stress-related disorders. It is a client-centred and body-oriented therapy that seeks to promote resilience and healing by reconnecting individuals with their natural capacity to restore balance and well-being.\nDr. Levine's groundbreaking book, \"Waking the Tiger: Healing Trauma\", which introduced the principles of Somatic Experiencing to a wider audience, was published in 1997. Since then, Somatic Experiencing has continued to evolve and gain recognition in the field of trauma therapy."
+    },
+    {
+      "id": 4,
+      "servicename": "Rehabilitation Counselling",
+      "details": "Rehabilitation counselling focuses on helping individuals with disabilities or chronic health conditions lead fulfilling and productive lives by providing them with the necessary support, skills, and resources to overcome barriers and achieve their personal, educational, vocational, and social goals. Rehab counsellors primarily work with individuals who have physical, cognitive, sensory, or psychiatric disabilities, as well as chronic health conditions. Clients may include people who have experienced accidents, injuries, illnesses, or congenital conditions that impact their daily functioning. Counsellors conduct comprehensive assessments to evaluate the individual&#39;s strengths, limitations, and rehabilitation needs. Based on the assessment, we then develop and help clients implement individualised rehab plans to address physical, emotional, vocational, and social needs. They might include seeking other treatments, through to vocational support and assistance, to accessing government or other supports to help with work or study goals."
+    },
+    {
+      "id": 5,
+      "servicename": "Career Counselling",
+      "details": "Career counselling helps you explore your interests, strengths, values, and goals to make decisions that align with your aspirations to better achieve career satisfaction and success. Career counselling can involve:"
+    },
+    {
+      "id": 6,
+      "servicename": "Wellness Coaching",
+      "details": "Wellness coaching is a structured goal setting and behavioural activation approach to help you achieve your wellness, health and mental health goals. Ideally, you will already have a plan from a registered nutritionist or naturopath, or I can provide referral to a practitioner. Once you know the evidence-based approach you want to work with (e.g. auto-immune protocol, keto, low-carb, etc), regular wellness coaching is here to provide motivation, support, accountability, as well as additional education on topics related to stress reduction, sleep, mindfulness, and other aspects of well-being. Using behaviour change and positive psychology strategies, you will be supported to make and maintain sustainable changes by exploring barriers, identifying triggers, and developing strategies to overcome obstacles.\nWith the known connection between inflammation, gut health and mental health, Wellness Coaching can augment psychological therapies and also be beneficial for people seeking to improve their overall quality of life, manage stress, prevent chronic diseases, lose weight, enhance mental health, and achieve a state of optimal well-being."
+    },
+    {
+      "id": 7,
+      "servicename": "Mental Health First Aid Training",
+      "details": "Learn how to assist adults who are developing a mental health problem, experiencing a worsening of an existing mental health problem or in a mental health crisis, until appropriate professional help is received or the crisis resolves. This course is based on guidelines developed through the expert consensus of people with lived experience of mental health problems and professionals.\nMarisa is a licensed instructor of the Standard Mental Health First Aid® course. This 12 hour accredited course is held over 2 full days."
+    },
+    {
+      "id": 8,
+      "servicename": "Counsulting and Supervision",
+      "details": "Consulting and SupervisionMarisa provides expert consultation and supervision in:"
+    }
+  ],
+  "marisa": [
+    {
+      "marisa": "Marisa has over 20 years’ experience in holistic healthcare modalities, having first trained in body-oriented psychotherapy in 2003, completing an in-depth, 4-year course in this psychodynamic, relational and strongly somatically-oriented therapy, that draws on the works of bioenergetics and Wilhelm Reich, Freud and Jung, as well as Barbara Brennan’s holistic healing work. This training has since been complemented with further education and practice in other evidence-based, psychological therapies, both body-oriented and cognitive-behavioural. Marisa is also a Rehabilitation Counsellor and Wellness Coach with more than 8 years’ experience helping those with serious injuries and illness return to life and work through support and strategies to increase functioning and performance in their personal and professional lives.\nMarisa came to her practice in wellbeing, psychotherapy and vocational rehabilitation in 2002. A personal injury led to her no longer being able to do her physically demanding work in natural area management and conservation. Having to undergo the rehabilitation process herself led to a natural interest and flair in holistic, wrap-around healthcare, the interconnection between mind and body, and vocational rehabilitation and counselling."
+    }
+  ],
+  "Qualifications": [
+    {
+      "Degree": "Master of Health Science (Rehabilitation Counselling)",
+      "University": "Latrobe University"
+    },
+    {
+      "Degree": "Graduate Certificate in Arts (Applied Linguistics and Counselling)",
+      "University": "University of New England"
+    },
+    {
+      "Degree": "Diploma of Body-Oriented Psychotherapy",
+      "University": "Institute of Energy Science"
+    },
+    {
+      "Degree": "Bachelor of Applied Science (Protected Area Management)",
+      "University": "University of Queensland"
+    }
+  ],
+  "Accreditations": [
+    "Full member, ASORC (Australian Society of Rehabilitation Counsellors)",
+    "PACFA Reg. Clinical 23155 (Psychotherapy and Counselling Federation of Australia)",
+    "Certified Wellness Coach with Wellness Coaching Australia",
+    "Registered with WorkSafe Victoria as a Counsellor and able to see NDIS Plan Managed or self-managed clients"
+  ]
+}
