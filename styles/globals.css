@@ -9,6 +9,10 @@ h1 {
   color: #e76b59;
 }
 
+h2 {
+  text-align: center;
+}
+
 footer {
   display: block;
   text-align: center;
