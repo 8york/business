@@ -1,12 +1,10 @@
 {
-  "about": [
-    {
-      "id": 1,
-      "title": "Hello, I am Marisa",
-      "sub-title": "Somatic(body-oriented) psychotherapist and Rehabilitation Counsellor",
-      "marisa": "I utilise a range of therapeutic approaches to meet clients’ needs. I work from a person-centred framework of respect and non-judgment, creating a safe space where clients can explore issues, collaboratively set goals and practice new ways of being."
-    }
-  ],
+  "about": {
+    "id": 1,
+    "title": "Hello, I am Marisa",
+    "subtitle": "Somatic(body-oriented) psychotherapist and Rehabilitation Counsellor",
+    "marisa": "I utilise a range of therapeutic approaches to meet clients’ needs. I work from a person-centred framework of respect and non-judgment, creating a safe space where clients can explore issues, collaboratively set goals and practice new ways of being."
+  },
   "services": [
     {
       "id": 1,
